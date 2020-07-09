@@ -1,0 +1,61 @@
+body {
+	background-color: #2d2d2d !important;
+	font-family: 'Roboto', sans-serif !important;
+}
+
+ul {
+	list-style: none;
+	margin-top: 25px !important;
+	margin-bottom: 25px !important;
+}
+
+h1 { 
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+.done {
+	text-decoration: line-through;
+}
+
+.delete {
+	background-color: red;
+	border: none;
+	color: #fff;
+	padding: 10px;
+	margin: 10px 25px 0px 0px;
+}
+
+.container-fluid {
+	background-color: #f0f1f2;
+	max-width: 450px !important;
+	margin-top: 7%;
+}
+
+#enter {
+	border-radius: 0%;
+	height: 40px;
+	outline: none;
+}
+
+.btn, .btn-primary, .btn-md {
+	outline: none;
+}
+
+#removeRightPadding {
+	padding-right: 0px;
+}
+
+#removeLeftPadding {
+	padding-left: 0px;
+}
+
+input {
+	height: 40px;
+	border: none;
+	outline: none;
+}
+
+li {
+	font-size: 24px;
+}
